@@ -3,4 +3,4 @@ This project involves a 32 x 16 LED matrix display connected to an arduino. Usin
 
 Yet another change
 
-More stuff
+More stuff to try out
